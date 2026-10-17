@@ -1,4 +1,4 @@
-# ⚡ EV Charging Infrastructure Analytics | Tableau
+#  EV Charging Infrastructure Analytics | Tableau
 
 ## 📌 Project Overview
 
